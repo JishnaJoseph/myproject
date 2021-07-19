@@ -3,6 +3,8 @@ class Simple{
 	{
 	System.out.println("hello Java");
 		System.out.println("Eclipse");
+				System.out.println("bye");
+
 	}
 	}
 //test
